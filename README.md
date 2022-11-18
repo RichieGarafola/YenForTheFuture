@@ -1,5 +1,6 @@
 # A Yen For The Future
-![Yen](Images/yen.png)
+
+![Yen](Images/Yen.jpeg)
 
 ## Background
 
@@ -16,6 +17,11 @@ Use the following:
 
 [Linear Regression Starter Notebook](./RegressionAnalysis.ipynb)
 
+### If you are interested in seeing how this project works with other Foreign Exchange pairs, check out the folder called Universal. The same studies are in there except the user can interact with the API and decide which Forex pair they would like to study.
+
+[Universal-Time-Series Starter Notebook](./Universal/TimeSeriesAnalysis.ipynb)
+
+[Universl-Linear Regression Starter Notebook](./Universal/RegressionAnalysis.ipynb)
 
 ---
 
@@ -77,6 +83,7 @@ The model has a root mean square error of 0.484% on out-of-sample data and 0.753
 
 In this particular model, The out of sample performed slightly worse than the In-sample data. The Out-of-sample had a root mean squared error of 0.484, while the in-sample data has an RMSE of .7535. From this data I would say the model has a "good" fit eventhough the In-Sample data and the Out of Sample results is highly deviant from each other.
 
+---
 
 ## Images
 
