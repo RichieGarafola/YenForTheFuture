@@ -21,7 +21,7 @@ Use the following:
 
 [Universal-Time-Series Starter Notebook](./Universal/TimeSeriesAnalysis.ipynb)
 
-[Universl-Linear Regression Starter Notebook](./Universal/RegressionAnalysis.ipynb)
+[Universal-Linear Regression Starter Notebook](./Universal/RegressionAnalysis.ipynb)
 
 ---
 
